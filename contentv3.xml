@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="12" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="AVA LA FUERZA QUE MUEVE AL MUNDO DIDACTICA DE LA QUIMICA TEMA HIDROCARBUROS"></unicode>
+  <unicode value="LA FUERZA QUE MUEVE AL MUNDO DIDACTICA DE LA QUIMICA TEMA HIDROCARBUROS"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addAccessibilityToolbar"></string>
@@ -17,9 +17,9 @@
   <string role="key" value="_backgroundImg"></string>
   <unicode value=""></unicode>
   <string role="key" value="_contextMode"></string>
-  <unicode value=""></unicode>
+  <unicode value="presencial"></unicode>
   <string role="key" value="_contextPlace"></string>
-  <unicode value=""></unicode>
+  <unicode value="classroom"></unicode>
   <string role="key" value="_description"></string>
   <unicode value="AVA REALIZADO POR LAUREN GONZÁLES PARA LA MATERIA DIDACTICA DE LA QUIMICA"></unicode>
   <string role="key" value="_docType"></string>
@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleTutor"></string>
   <bool value="0"></bool>
   <string role="key" value="_intendedEndUserRoleType"></string>
-  <unicode value=""></unicode>
+  <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
   <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
@@ -380,7 +380,7 @@
       <instance class="exe.engine.jsidevice.JsIdevice" reference="6">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="¿Cómo usar este AVA?"></unicode>
+        <unicode value=""></unicode>
         <string role="key" value="_attributes"></string>
         <list>
          <tuple>
@@ -433,7 +433,7 @@
         <string role="key" value="edit"></string>
         <bool value="0"></bool>
         <string role="key" value="emphasis"></string>
-        <int value="1"></int>
+        <int value="0"></int>
         <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
         <int value="1"></int>
         <string role="key" value="fields"></string>
@@ -453,7 +453,7 @@
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h4&gt;Para sacar el máximo provecho de este ambiente de aprendizaje, te recomendamos seguir estos pasos&lt;/h4&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h4&gt;Para sacar el máximo provecho de este espacio, te recomendamos seguir estos pasos&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo#auto_top&quot;&gt;Comienza por el Inicio: Lee atentamente esta página para entender los objetivos y la propuesta.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:FUNDAMENTACI%C3%93N%20TEORICA#auto_top&quot;&gt;Fundamentación Teórica: Dirígete a esta sección para consultar los videos, lecturas y materiales que te darán la base conceptual.&lt;/a&gt;&lt;/li&gt;
@@ -1271,7 +1271,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="807"></int>
+                           <int value="845"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1285,7 +1285,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="57_212_2.3"></unicode>
+                         <unicode value="57_212_2.5"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="14">
                           <dictionary>
@@ -1296,7 +1296,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="etileno-en-plasticos-fabricacion-materiales-industriales.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\etileno-en-plasticos-fabricacion-materiales-industriales.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\etileno-en-plasticos-fabricacion-materiales-industriales.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="491dbf3047742b60870c0b5a3dde4ab6"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1325,7 +1325,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="4"></int>
+                    <int value="6"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="10"></reference>
                    </dictionary>
@@ -1834,7 +1834,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="802"></int>
+                           <int value="840"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1848,7 +1848,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.21"></unicode>
+                         <unicode value="63_218_2.35"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="23">
                           <dictionary>
@@ -1859,7 +1859,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Butano.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\Butano.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\Butano.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="499007e2e9b5426915e0072cf33be329"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1886,7 +1886,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="803"></int>
+                           <int value="841"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1900,7 +1900,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.22"></unicode>
+                         <unicode value="63_218_2.36"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="24">
                           <dictionary>
@@ -1911,7 +1911,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Buteno.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\Buteno.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\Buteno.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="a1ad4f8477759015c419502eb8d44c2b"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1938,7 +1938,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="804"></int>
+                           <int value="842"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1952,7 +1952,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.23"></unicode>
+                         <unicode value="63_218_2.37"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="25">
                           <dictionary>
@@ -1963,7 +1963,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="etano.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\etano.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\etano.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2517a98d20852698cc9b20df01cdb34e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1990,7 +1990,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="805"></int>
+                           <int value="843"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2004,7 +2004,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.24"></unicode>
+                         <unicode value="63_218_2.38"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="26">
                           <dictionary>
@@ -2015,7 +2015,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="eteno.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\eteno.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\eteno.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="b139d0f6ba5d9f788baa094afeaaa1e9"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2042,7 +2042,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="808"></int>
+                           <int value="846"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2056,7 +2056,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.25"></unicode>
+                         <unicode value="63_218_2.39"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="27">
                           <dictionary>
@@ -2067,7 +2067,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Metano1.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\Metano1.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\Metano1.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="32d33c948c6bf5745ab930e19623ba58"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2094,7 +2094,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="809"></int>
+                           <int value="847"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2108,7 +2108,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.26"></unicode>
+                         <unicode value="63_218_2.40"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="28">
                           <dictionary>
@@ -2119,7 +2119,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="propano.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\propano.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\propano.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="50ecb6e16c0f4cf26cf251ca08e1ee76"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2146,7 +2146,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="810"></int>
+                           <int value="848"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2160,7 +2160,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.27"></unicode>
+                         <unicode value="63_218_2.41"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="29">
                           <dictionary>
@@ -2171,7 +2171,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="propeno.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\propeno.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\propeno.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="8e4bca4f59bcabc1d72d76c7dd11203e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2200,7 +2200,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="28"></int>
+                    <int value="42"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="10"></reference>
                    </dictionary>
@@ -2334,7 +2334,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="801"></int>
+                           <int value="839"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2348,7 +2348,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="64_219_2.6"></unicode>
+                         <unicode value="64_219_2.10"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="32">
                           <dictionary>
@@ -2359,7 +2359,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="benceno.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\benceno.png"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\benceno.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d174aadc1bcc3b5d4dacd85a0224f10d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2386,7 +2386,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="806"></int>
+                           <int value="844"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2400,7 +2400,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="64_219_2.7"></unicode>
+                         <unicode value="64_219_2.11"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="33">
                           <dictionary>
@@ -2411,7 +2411,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="eteno.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmprbkjlf\\eteno.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\eteno.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="b139d0f6ba5d9f788baa094afeaaa1e9"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2440,7 +2440,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="8"></int>
+                    <int value="12"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="10"></reference>
                    </dictionary>
@@ -10359,194 +10359,6 @@
    <reference key="3"></reference>
    <reference key="55"></reference>
    <reference key="40"></reference>
-   <instance class="exe.engine.node.Node" reference="106">
-    <dictionary>
-     <string role="key" value="_title"></string>
-     <unicode value="Buzon de sugerencias"></unicode>
-     <string role="key" value="idevices"></string>
-     <list></list>
-     <string role="key" value="_id"></string>
-     <unicode value="13"></unicode>
-     <string role="key" value="_package"></string>
-     <none></none>
-     <string role="key" value="anchor_fields"></string>
-     <list></list>
-     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-     <int value="2"></int>
-     <string role="key" value="exportType"></string>
-     <string value="website"></string>
-     <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Buzon%20de%20sugerencias"></string>
-     <string role="key" value="parent"></string>
-     <none></none>
-     <string role="key" value="top_anchors_linked_from_fields"></string>
-     <list>
-      <instance class="exe.engine.field.TextAreaField" reference="105">
-       <dictionary>
-        <string role="key" value="_id"></string>
-        <unicode value="197_2"></unicode>
-        <string role="key" value="_idevice"></string>
-        <instance class="exe.engine.jsidevice.JsIdevice">
-         <dictionary>
-          <string role="key" value="_title"></string>
-          <unicode value=""></unicode>
-          <string role="key" value="_attributes"></string>
-          <list>
-           <tuple>
-            <string value="title"></string>
-            <list>
-             <string value="Title"></string>
-             <int value="0"></int>
-             <int value="0"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="category"></string>
-            <list>
-             <string value="Category"></string>
-             <int value="0"></int>
-             <int value="1"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="css-class"></string>
-            <list>
-             <string value="CSS class"></string>
-             <int value="0"></int>
-             <int value="2"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="icon"></string>
-            <list>
-             <string value="Icon"></string>
-             <int value="0"></int>
-             <int value="3"></int>
-            </list>
-           </tuple>
-          </list>
-          <string role="key" value="_author"></string>
-          <string value=""></string>
-          <string role="key" value="_iDeviceDir"></string>
-          <string value="text"></string>
-          <string role="key" value="_purpose"></string>
-          <string value=""></string>
-          <string role="key" value="_tip"></string>
-          <string value=""></string>
-          <string role="key" value="_typeName"></string>
-          <unicode value="Text"></unicode>
-          <string role="key" value="_valid"></string>
-          <bool value="1"></bool>
-          <string role="key" value="class_"></string>
-          <unicode value="text"></unicode>
-          <string role="key" value="edit"></string>
-          <bool value="0"></bool>
-          <string role="key" value="emphasis"></string>
-          <int value="0"></int>
-          <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-          <int value="1"></int>
-          <string role="key" value="fields"></string>
-          <list>
-           <reference key="105"></reference>
-          </list>
-          <string role="key" value="icon"></string>
-          <unicode value=""></unicode>
-          <string role="key" value="id"></string>
-          <unicode value="42"></unicode>
-          <string role="key" value="ideviceCategory"></string>
-          <unicode value="Text and Tasks"></unicode>
-          <string role="key" value="lastIdevice"></string>
-          <bool value="0"></bool>
-          <string role="key" value="nextFieldId"></string>
-          <int value="3"></int>
-          <string role="key" value="originalicon"></string>
-          <string value=""></string>
-          <string role="key" value="parentNode"></string>
-          <none></none>
-          <string role="key" value="systemResources"></string>
-          <list></list>
-          <string role="key" value="undo"></string>
-          <bool value="1"></bool>
-          <string role="key" value="userResources"></string>
-          <list></list>
-          <string role="key" value="version"></string>
-          <int value="0"></int>
-         </dictionary>
-        </instance>
-        <string role="key" value="_instruc"></string>
-        <string value=""></string>
-        <string role="key" value="_name"></string>
-        <string value=""></string>
-        <string role="key" value="anchor_names"></string>
-        <list></list>
-        <string role="key" value="anchors_linked_from_fields"></string>
-        <dictionary></dictionary>
-        <string role="key" value="content_w_resourcePaths"></string>
-        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h4&gt;&lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo#auto_top&quot;&gt;Inicio&lt;/a&gt; ⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:FUNDAMENTACI%C3%93N%20TEORICA#auto_top&quot;&gt;Fundamentación Teórica &lt;/a&gt;⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:FUNDAMENTACI%C3%93N%20TEORICA:Material%20Visual#auto_top&quot;&gt;Material Visual&lt;/a&gt; ⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:FUNDAMENTACI%C3%93N%20TEORICA:Material%20Textual#auto_top&quot;&gt;Material Textual&lt;/a&gt; ⌋&lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Actividades#auto_top&quot;&gt; Actividades&lt;/a&gt; ⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Actividades:Foro#auto_top&quot;&gt;Foro&lt;/a&gt; ⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Actividades:Laboratorio#auto_top&quot;&gt;Laboratorio&lt;/a&gt; ⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Actividades:Simulacion#auto_top&quot;&gt;Simulación&lt;/a&gt;⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Entrega%20y%20Seguimiento#auto_top&quot;&gt;Entrega y Seguimiento&lt;/a&gt; ⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Entrega%20y%20Seguimiento:Seguimiento#auto_top&quot;&gt;Progreso &lt;/a&gt;⌋ &lt;a href=&quot;exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Entrega%20y%20Seguimiento:Subida%20de%20informe%20de%20laboratorio#auto_top&quot;&gt;Entrega informe de Laboratorio&lt;/a&gt; ⌋ Buzón de sugerencia &lt;/h4&gt;&lt;/div&gt;"></unicode>
-        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-        <int value="4"></int>
-        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-        <int value="3"></int>
-        <string role="key" value="htmlTag"></string>
-        <string value="div"></string>
-        <string role="key" value="images"></string>
-        <instance class="exe.engine.galleryidevice.GalleryImages">
-         <dictionary>
-          <string role="key" value=".listitems"></string>
-          <list></list>
-          <string role="key" value="idevice"></string>
-          <reference key="105"></reference>
-         </dictionary>
-        </instance>
-        <string role="key" value="intlinks_to_anchors"></string>
-        <dictionary>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo#auto_top"></unicode>
-         <reference key="3"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Actividades#auto_top"></unicode>
-         <reference key="10"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Actividades:Foro#auto_top"></unicode>
-         <reference key="40"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Actividades:Laboratorio#auto_top"></unicode>
-         <reference key="45"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Actividades:Simulacion#auto_top"></unicode>
-         <reference key="50"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Entrega%20y%20Seguimiento#auto_top"></unicode>
-         <reference key="55"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Entrega%20y%20Seguimiento:Seguimiento#auto_top"></unicode>
-         <reference key="66"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:Entrega%20y%20Seguimiento:Subida%20de%20informe%20de%20laboratorio#auto_top"></unicode>
-         <reference key="71"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:FUNDAMENTACI%C3%93N%20TEORICA#auto_top"></unicode>
-         <reference key="76"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:FUNDAMENTACI%C3%93N%20TEORICA:Material%20Textual#auto_top"></unicode>
-         <reference key="85"></reference>
-         <unicode role="key" value="exe-node:Hidrocarburos%3A%20La%20Fuerza%20que%20Mueve%20al%20Mundo:FUNDAMENTACI%C3%93N%20TEORICA:Material%20Visual#auto_top"></unicode>
-         <reference key="96"></reference>
-        </dictionary>
-        <string role="key" value="nextImageId"></string>
-        <int value="0"></int>
-        <string role="key" value="parentNode"></string>
-        <reference key="106"></reference>
-       </dictionary>
-      </instance>
-      <reference key="68"></reference>
-      <reference key="73"></reference>
-      <reference key="63"></reference>
-      <reference key="82"></reference>
-      <reference key="103"></reference>
-      <reference key="102"></reference>
-      <reference key="93"></reference>
-      <reference key="37"></reference>
-      <reference key="42"></reference>
-      <reference key="47"></reference>
-      <reference key="52"></reference>
-     </list>
-     <string role="key" value="children"></string>
-     <list></list>
-    </dictionary>
-   </instance>
    <reference key="96"></reference>
    <reference key="85"></reference>
    <reference key="66"></reference>
@@ -10557,7 +10369,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="66"></reference>
+  <reference key="96"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -10588,7 +10400,7 @@
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="AVA LA FUERZA QUE MUEVE AL MUNDO DIDACTICA DE LA QUIMICA TEMA HIDROCARBUROS"></unicode>
+    <unicode value="LA FUERZA QUE MUEVE AL MUNDO DIDACTICA DE LA QUIMICA TEMA HIDROCARBUROS"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -10600,7 +10412,7 @@
   <string role="key" value="exportSource"></string>
   <bool value="1"></bool>
   <string role="key" value="footer"></string>
-  <string value=""></string>
+  <unicode value=""></unicode>
   <string role="key" value="isLoading"></string>
   <bool value="0"></bool>
   <string role="key" value="license"></string>
@@ -10623,13 +10435,117 @@
        <string role="key" value="cognitiveProcess"></string>
        <list></list>
        <string role="key" value="context"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="other"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="school"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="description"></string>
        <list></list>
        <string role="key" value="difficulty"></string>
        <none></none>
        <string role="key" value="intendedEndUserRole"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="learner"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="interactivityLevel"></string>
        <none></none>
        <string role="key" value="interactivityType"></string>
@@ -10770,7 +10686,7 @@
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="AVA LA FUERZA QUE MUEVE AL MUNDO DIDACTICA DE LA QUIMICA TEMA HIDROCARBUROS"></string>
+           <string value="LA FUERZA QUE MUEVE AL MUNDO DIDACTICA DE LA QUIMICA TEMA HIDROCARBUROS"></string>
           </dictionary>
          </instance>
         </list>
@@ -11080,13 +10996,117 @@
        <string role="key" value="cognitiveProcess"></string>
        <list></list>
        <string role="key" value="context"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="presencial"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="classroom"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="description"></string>
        <list></list>
        <string role="key" value="difficulty"></string>
        <none></none>
        <string role="key" value="intendedEndUserRole"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="learner"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="interactivityLevel"></string>
        <none></none>
        <string role="key" value="interactivityType"></string>
@@ -11227,7 +11247,7 @@
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="AVA LA FUERZA QUE MUEVE AL MUNDO DIDACTICA DE LA QUIMICA TEMA HIDROCARBUROS"></string>
+           <string value="LA FUERZA QUE MUEVE AL MUNDO DIDACTICA DE LA QUIMICA TEMA HIDROCARBUROS"></string>
           </dictionary>
          </instance>
         </list>
