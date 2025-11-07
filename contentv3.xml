@@ -1271,7 +1271,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="845"></int>
+                           <int value="847"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1296,7 +1296,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="etileno-en-plasticos-fabricacion-materiales-industriales.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\etileno-en-plasticos-fabricacion-materiales-industriales.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\etileno-en-plasticos-fabricacion-materiales-industriales.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="491dbf3047742b60870c0b5a3dde4ab6"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1834,7 +1834,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="840"></int>
+                           <int value="842"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1859,113 +1859,9 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Butano.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\Butano.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\Butano.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="499007e2e9b5426915e0072cf33be329"></string>
-                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="warningMsg"></string>
-                           <string value=""></string>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_parent"></string>
-                         <reference key="22"></reference>
-                         <string role="key" value="_thumbnailResource"></string>
-                         <none></none>
-                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                         <int value="3"></int>
-                         <string role="key" value="makeThumbnail"></string>
-                         <bool value="0"></bool>
-                        </dictionary>
-                       </instance>
-                       <instance class="exe.engine.galleryidevice.GalleryImage">
-                        <dictionary>
-                         <string role="key" value="_caption"></string>
-                         <instance class="exe.engine.field.TextField">
-                          <dictionary>
-                           <string role="key" value="_id"></string>
-                           <int value="841"></int>
-                           <string role="key" value="_idevice"></string>
-                           <none></none>
-                           <string role="key" value="_instruc"></string>
-                           <string value=""></string>
-                           <string role="key" value="_name"></string>
-                           <string value=""></string>
-                           <string role="key" value="content"></string>
-                           <string value=""></string>
-                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                           <int value="4"></int>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.36"></unicode>
-                         <string role="key" value="_imageResource"></string>
-                         <instance class="exe.engine.resource.Resource" reference="24">
-                          <dictionary>
-                           <string role="key" value="_idevice"></string>
-                           <reference key="21"></reference>
-                           <string role="key" value="_package"></string>
-                           <reference key="12"></reference>
-                           <string role="key" value="_storageName"></string>
-                           <string value="Buteno.jpg"></string>
-                           <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\Buteno.jpg"></string>
-                           <string role="key" value="checksum"></string>
-                           <string value="a1ad4f8477759015c419502eb8d44c2b"></string>
-                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="warningMsg"></string>
-                           <string value=""></string>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_parent"></string>
-                         <reference key="22"></reference>
-                         <string role="key" value="_thumbnailResource"></string>
-                         <none></none>
-                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                         <int value="3"></int>
-                         <string role="key" value="makeThumbnail"></string>
-                         <bool value="0"></bool>
-                        </dictionary>
-                       </instance>
-                       <instance class="exe.engine.galleryidevice.GalleryImage">
-                        <dictionary>
-                         <string role="key" value="_caption"></string>
-                         <instance class="exe.engine.field.TextField">
-                          <dictionary>
-                           <string role="key" value="_id"></string>
-                           <int value="842"></int>
-                           <string role="key" value="_idevice"></string>
-                           <none></none>
-                           <string role="key" value="_instruc"></string>
-                           <string value=""></string>
-                           <string role="key" value="_name"></string>
-                           <string value=""></string>
-                           <string role="key" value="content"></string>
-                           <string value=""></string>
-                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                           <int value="4"></int>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.37"></unicode>
-                         <string role="key" value="_imageResource"></string>
-                         <instance class="exe.engine.resource.Resource" reference="25">
-                          <dictionary>
-                           <string role="key" value="_idevice"></string>
-                           <reference key="21"></reference>
-                           <string role="key" value="_package"></string>
-                           <reference key="12"></reference>
-                           <string role="key" value="_storageName"></string>
-                           <string value="etano.jpg"></string>
-                           <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\etano.jpg"></string>
-                           <string role="key" value="checksum"></string>
-                           <string value="2517a98d20852698cc9b20df01cdb34e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                            <int value="2"></int>
                            <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2004,6 +1900,110 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
+                         <unicode value="63_218_2.36"></unicode>
+                         <string role="key" value="_imageResource"></string>
+                         <instance class="exe.engine.resource.Resource" reference="24">
+                          <dictionary>
+                           <string role="key" value="_idevice"></string>
+                           <reference key="21"></reference>
+                           <string role="key" value="_package"></string>
+                           <reference key="12"></reference>
+                           <string role="key" value="_storageName"></string>
+                           <string value="Buteno.jpg"></string>
+                           <string role="key" value="_userName"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\Buteno.jpg"></string>
+                           <string role="key" value="checksum"></string>
+                           <string value="a1ad4f8477759015c419502eb8d44c2b"></string>
+                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="warningMsg"></string>
+                           <string value=""></string>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_parent"></string>
+                         <reference key="22"></reference>
+                         <string role="key" value="_thumbnailResource"></string>
+                         <none></none>
+                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                         <int value="3"></int>
+                         <string role="key" value="makeThumbnail"></string>
+                         <bool value="0"></bool>
+                        </dictionary>
+                       </instance>
+                       <instance class="exe.engine.galleryidevice.GalleryImage">
+                        <dictionary>
+                         <string role="key" value="_caption"></string>
+                         <instance class="exe.engine.field.TextField">
+                          <dictionary>
+                           <string role="key" value="_id"></string>
+                           <int value="844"></int>
+                           <string role="key" value="_idevice"></string>
+                           <none></none>
+                           <string role="key" value="_instruc"></string>
+                           <string value=""></string>
+                           <string role="key" value="_name"></string>
+                           <string value=""></string>
+                           <string role="key" value="content"></string>
+                           <string value=""></string>
+                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                           <int value="4"></int>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_id"></string>
+                         <unicode value="63_218_2.37"></unicode>
+                         <string role="key" value="_imageResource"></string>
+                         <instance class="exe.engine.resource.Resource" reference="25">
+                          <dictionary>
+                           <string role="key" value="_idevice"></string>
+                           <reference key="21"></reference>
+                           <string role="key" value="_package"></string>
+                           <reference key="12"></reference>
+                           <string role="key" value="_storageName"></string>
+                           <string value="etano.jpg"></string>
+                           <string role="key" value="_userName"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\etano.jpg"></string>
+                           <string role="key" value="checksum"></string>
+                           <string value="2517a98d20852698cc9b20df01cdb34e"></string>
+                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="warningMsg"></string>
+                           <string value=""></string>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_parent"></string>
+                         <reference key="22"></reference>
+                         <string role="key" value="_thumbnailResource"></string>
+                         <none></none>
+                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                         <int value="3"></int>
+                         <string role="key" value="makeThumbnail"></string>
+                         <bool value="0"></bool>
+                        </dictionary>
+                       </instance>
+                       <instance class="exe.engine.galleryidevice.GalleryImage">
+                        <dictionary>
+                         <string role="key" value="_caption"></string>
+                         <instance class="exe.engine.field.TextField">
+                          <dictionary>
+                           <string role="key" value="_id"></string>
+                           <int value="845"></int>
+                           <string role="key" value="_idevice"></string>
+                           <none></none>
+                           <string role="key" value="_instruc"></string>
+                           <string value=""></string>
+                           <string role="key" value="_name"></string>
+                           <string value=""></string>
+                           <string role="key" value="content"></string>
+                           <string value=""></string>
+                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                           <int value="4"></int>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_id"></string>
                          <unicode value="63_218_2.38"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="26">
@@ -2015,113 +2015,9 @@
                            <string role="key" value="_storageName"></string>
                            <string value="eteno.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\eteno.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\eteno.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="b139d0f6ba5d9f788baa094afeaaa1e9"></string>
-                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="warningMsg"></string>
-                           <string value=""></string>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_parent"></string>
-                         <reference key="22"></reference>
-                         <string role="key" value="_thumbnailResource"></string>
-                         <none></none>
-                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                         <int value="3"></int>
-                         <string role="key" value="makeThumbnail"></string>
-                         <bool value="0"></bool>
-                        </dictionary>
-                       </instance>
-                       <instance class="exe.engine.galleryidevice.GalleryImage">
-                        <dictionary>
-                         <string role="key" value="_caption"></string>
-                         <instance class="exe.engine.field.TextField">
-                          <dictionary>
-                           <string role="key" value="_id"></string>
-                           <int value="846"></int>
-                           <string role="key" value="_idevice"></string>
-                           <none></none>
-                           <string role="key" value="_instruc"></string>
-                           <string value=""></string>
-                           <string role="key" value="_name"></string>
-                           <string value=""></string>
-                           <string role="key" value="content"></string>
-                           <string value=""></string>
-                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                           <int value="4"></int>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.39"></unicode>
-                         <string role="key" value="_imageResource"></string>
-                         <instance class="exe.engine.resource.Resource" reference="27">
-                          <dictionary>
-                           <string role="key" value="_idevice"></string>
-                           <reference key="21"></reference>
-                           <string role="key" value="_package"></string>
-                           <reference key="12"></reference>
-                           <string role="key" value="_storageName"></string>
-                           <string value="Metano1.jpg"></string>
-                           <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\Metano1.jpg"></string>
-                           <string role="key" value="checksum"></string>
-                           <string value="32d33c948c6bf5745ab930e19623ba58"></string>
-                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="warningMsg"></string>
-                           <string value=""></string>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_parent"></string>
-                         <reference key="22"></reference>
-                         <string role="key" value="_thumbnailResource"></string>
-                         <none></none>
-                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                         <int value="3"></int>
-                         <string role="key" value="makeThumbnail"></string>
-                         <bool value="0"></bool>
-                        </dictionary>
-                       </instance>
-                       <instance class="exe.engine.galleryidevice.GalleryImage">
-                        <dictionary>
-                         <string role="key" value="_caption"></string>
-                         <instance class="exe.engine.field.TextField">
-                          <dictionary>
-                           <string role="key" value="_id"></string>
-                           <int value="847"></int>
-                           <string role="key" value="_idevice"></string>
-                           <none></none>
-                           <string role="key" value="_instruc"></string>
-                           <string value=""></string>
-                           <string role="key" value="_name"></string>
-                           <string value=""></string>
-                           <string role="key" value="content"></string>
-                           <string value=""></string>
-                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                           <int value="4"></int>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_id"></string>
-                         <unicode value="63_218_2.40"></unicode>
-                         <string role="key" value="_imageResource"></string>
-                         <instance class="exe.engine.resource.Resource" reference="28">
-                          <dictionary>
-                           <string role="key" value="_idevice"></string>
-                           <reference key="21"></reference>
-                           <string role="key" value="_package"></string>
-                           <reference key="12"></reference>
-                           <string role="key" value="_storageName"></string>
-                           <string value="propano.jpg"></string>
-                           <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\propano.jpg"></string>
-                           <string role="key" value="checksum"></string>
-                           <string value="50ecb6e16c0f4cf26cf251ca08e1ee76"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                            <int value="2"></int>
                            <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2160,6 +2056,110 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
+                         <unicode value="63_218_2.39"></unicode>
+                         <string role="key" value="_imageResource"></string>
+                         <instance class="exe.engine.resource.Resource" reference="27">
+                          <dictionary>
+                           <string role="key" value="_idevice"></string>
+                           <reference key="21"></reference>
+                           <string role="key" value="_package"></string>
+                           <reference key="12"></reference>
+                           <string role="key" value="_storageName"></string>
+                           <string value="Metano1.jpg"></string>
+                           <string role="key" value="_userName"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\Metano1.jpg"></string>
+                           <string role="key" value="checksum"></string>
+                           <string value="32d33c948c6bf5745ab930e19623ba58"></string>
+                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="warningMsg"></string>
+                           <string value=""></string>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_parent"></string>
+                         <reference key="22"></reference>
+                         <string role="key" value="_thumbnailResource"></string>
+                         <none></none>
+                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                         <int value="3"></int>
+                         <string role="key" value="makeThumbnail"></string>
+                         <bool value="0"></bool>
+                        </dictionary>
+                       </instance>
+                       <instance class="exe.engine.galleryidevice.GalleryImage">
+                        <dictionary>
+                         <string role="key" value="_caption"></string>
+                         <instance class="exe.engine.field.TextField">
+                          <dictionary>
+                           <string role="key" value="_id"></string>
+                           <int value="849"></int>
+                           <string role="key" value="_idevice"></string>
+                           <none></none>
+                           <string role="key" value="_instruc"></string>
+                           <string value=""></string>
+                           <string role="key" value="_name"></string>
+                           <string value=""></string>
+                           <string role="key" value="content"></string>
+                           <string value=""></string>
+                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                           <int value="4"></int>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_id"></string>
+                         <unicode value="63_218_2.40"></unicode>
+                         <string role="key" value="_imageResource"></string>
+                         <instance class="exe.engine.resource.Resource" reference="28">
+                          <dictionary>
+                           <string role="key" value="_idevice"></string>
+                           <reference key="21"></reference>
+                           <string role="key" value="_package"></string>
+                           <reference key="12"></reference>
+                           <string role="key" value="_storageName"></string>
+                           <string value="propano.jpg"></string>
+                           <string role="key" value="_userName"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\propano.jpg"></string>
+                           <string role="key" value="checksum"></string>
+                           <string value="50ecb6e16c0f4cf26cf251ca08e1ee76"></string>
+                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="warningMsg"></string>
+                           <string value=""></string>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_parent"></string>
+                         <reference key="22"></reference>
+                         <string role="key" value="_thumbnailResource"></string>
+                         <none></none>
+                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                         <int value="3"></int>
+                         <string role="key" value="makeThumbnail"></string>
+                         <bool value="0"></bool>
+                        </dictionary>
+                       </instance>
+                       <instance class="exe.engine.galleryidevice.GalleryImage">
+                        <dictionary>
+                         <string role="key" value="_caption"></string>
+                         <instance class="exe.engine.field.TextField">
+                          <dictionary>
+                           <string role="key" value="_id"></string>
+                           <int value="850"></int>
+                           <string role="key" value="_idevice"></string>
+                           <none></none>
+                           <string role="key" value="_instruc"></string>
+                           <string value=""></string>
+                           <string role="key" value="_name"></string>
+                           <string value=""></string>
+                           <string role="key" value="content"></string>
+                           <string value=""></string>
+                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                           <int value="4"></int>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_id"></string>
                          <unicode value="63_218_2.41"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="29">
@@ -2171,7 +2171,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="propeno.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\propeno.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\propeno.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="8e4bca4f59bcabc1d72d76c7dd11203e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2334,7 +2334,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="839"></int>
+                           <int value="841"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2359,7 +2359,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="benceno.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\benceno.png"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\benceno.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d174aadc1bcc3b5d4dacd85a0224f10d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2386,7 +2386,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="844"></int>
+                           <int value="846"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2411,7 +2411,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="eteno.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptixjr8\\eteno.jpg"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpj5c2py\\eteno.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="b139d0f6ba5d9f788baa094afeaaa1e9"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2760,7 +2760,7 @@
                         <instance class="exe.engine.jsidevice.JsIdevice" reference="38">
                          <dictionary>
                           <string role="key" value="_title"></string>
-                          <unicode value="Foro de Paricipacion"></unicode>
+                          <unicode value="Foro de Participación"></unicode>
                           <string role="key" value="_attributes"></string>
                           <list>
                            <tuple>
@@ -10369,7 +10369,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="96"></reference>
+  <reference key="40"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
